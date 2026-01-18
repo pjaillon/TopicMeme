@@ -1,7 +1,7 @@
 # TopicMeme
 
 <div align="center">
-  <img width="50%" height="50%" src="assets/topicmeme.png" alt="TopicMeme" />
+  <img width="75%" height="75%" src="assets/topicmeme.png" alt="TopicMeme" />
 </div>
 
 TopicMeme offers personalized search with supporting articles on specific topics, assembling a structured news view from authoritative sources.
