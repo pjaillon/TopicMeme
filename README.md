@@ -1,16 +1,10 @@
 # TopicMeme
 
 <div align="center">
-  <img src="assets/topicmeme.png" alt="TopicMeme" />
+  <img width="50%" height="50%" src="assets/topicmeme.png" alt="TopicMeme" />
 </div>
 
 TopicMeme offers personalized search with supporting articles on specific topics, assembling a structured news view from authoritative sources.
-
-## Minimal Requirements
-
-- Node.js 18+ (or 20+ recommended)
-- OpenAI API key with access to the Responses API and web search
-- Internet connection (for fetching live sources)
 
 ## Features
 
@@ -41,3 +35,9 @@ TopicMeme offers personalized search with supporting articles on specific topics
 2. Copy `.env.example` to `.env.local` and set `VITE_OPENAI_API_KEY` to your OpenAI API key
 3. Run the app:
    `npm run dev`
+
+## Minimal Requirements
+
+- Node.js 18+ (or 20+ recommended)
+- OpenAI API key with access to the Responses API and web search
+- Internet connection (for fetching live sources)
