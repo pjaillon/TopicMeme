@@ -1,5 +1,9 @@
 # TopicMeme
 
+<div align="center">
+  <img src="assets/topicmeme.png" alt="TopicMeme" />
+</div>
+
 TopicMeme offers personalized search with supporting articles on specific topics, assembling a structured news view from authoritative sources.
 
 ## Run Locally
